@@ -150,7 +150,7 @@ Our focus is on a secure and user-friendly experience:
 We're open to contributions! Add game modes, improve UX, or help with audits.
 
 ```
-git clone [https://github.com/YOUR_GITHUB_USERNAME/liars-poker-sol.git](https://github.com/YOUR_GITHUB_USERNAME/liars-poker-sol.git)
+git clone [https://github.com/rythmern02/Liarspoker-Sol.git](https://github.com/rythmern02/Liarspoker-Sol.git)
 cd liars-poker-sol
 ```
 
